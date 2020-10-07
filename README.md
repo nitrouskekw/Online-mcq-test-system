@@ -1,4 +1,4 @@
-# Online-mcq-test-system
+test-system
 mcq based exam system with self assesment
 i have used a few questions as example
 they can definetly be edited
